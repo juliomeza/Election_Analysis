@@ -11,3 +11,5 @@ if "Arapahoe" in counties or "El Paso" in counties:
 else:
     print("Arapahoe and El Paso are not in the list of counties.")
 
+for county in counties:
+    print(county)
