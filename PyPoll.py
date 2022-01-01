@@ -1,15 +1,21 @@
 import csv
-
+import os
 
 # The data we need to retrieve.
-# Path and File Name
-file_to_load = 'Resources/election_results.csv'
+
+# Source Data Path/Filename
+file_to_load = os.path.join('Resources', 'election_results.csv')
+
+# Write to File Path/Filename
+file_to_save = os.path.join('analysis', 'election_analysis.txt')
 
 # Open the file in read mode
 with open(file_to_load) as election_data:
     print(election_data)
 
-
+# Open the file to write data
+with open(file_to_save, 'w') as txt_file:
+    txt_file.write('Counties in the Election\n------------------------\nArapahoe\nDenver\nJefferson')
 
 
 
