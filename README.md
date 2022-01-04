@@ -17,7 +17,7 @@ The purpose of this project is to audit the recent local congressional election,
 | COUNTY  | VOTES | PERCENTAGE |
 | ------------- | ------------- | ------------- |
 | Jefferson | 38,855  | 10.5% |
-| Denver | 306,055  | 82.8% |
+| Denver | ```dif -306,055```  | 82.8% |
 | Arapahoe | 24,801  | 6.7% |
 | TOTAL  | 369,711 | 100.0% |
 * Denver county has the largest numver of votes
