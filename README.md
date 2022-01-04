@@ -2,13 +2,13 @@
 
 ## Project Overview
 Audit the recent local congressional election.
-Total Votes: 369,711
 
-| Candidate  | Votes |
+| CANDIDATE  | VOTES |
 | ------------- | ------------- |
 | Charles Casper Stockham  | 85,213  |
 | Diana DeGette  | 272,892  |
 | Raymon Anthony Doane  | 11,606  |
+| TOTAL  | 369,711  |
 
 3. Calculate the total number of votes each candidate received
 4. Calculate the percentage of votes each candidate won
