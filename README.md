@@ -5,8 +5,14 @@ The purpose of this project is to audit the recent local congressional election,
 
 ## Election-Audit Results
 * There were 369,711 total votes in this congressional election.
-* <span style="color: red;">text</span>
-* Some Markdown text with <span style="color:blue">some *blue* text</span>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 | COUNTY  | VOTES | PERCENTAGE |
 | ------------- | ------------- | ------------- |
