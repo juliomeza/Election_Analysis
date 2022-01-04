@@ -4,7 +4,7 @@
 Audit the recent local congressional election.
 
 | CANDIDATE  | VOTES | PERCENTAGE |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Charles Casper Stockham  | 85,213  | 23.0% |
 | Diana DeGette  | 272,892  | 73.8% |
 | Raymon Anthony Doane  | 11,606  | 3.1% |
