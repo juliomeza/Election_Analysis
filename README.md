@@ -5,6 +5,7 @@ The purpose of this project is to audit the recent local congressional election,
 
 ## Election-Audit Results
 * There were 369,711 total votes in this congressional election.
+
 | COUNTY  | PERCENTAGE | VOTES |
 | ------------- | ------------- | ------------- |
 | Jefferson | 10.5%  | 38,855 |
