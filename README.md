@@ -6,12 +6,12 @@ The purpose of this project is to audit the recent local congressional election,
 ## Election-Audit Results
 * There were 369,711 total votes in this congressional election.
 
-| COUNTY  | PERCENTAGE | VOTES |
+| COUNTY  | VOTES | PERCENTAGE |
 | ------------- | ------------- | ------------- |
-| Jefferson | 10.5%  | 38,855 |
-| Denver | 82.8%  | 306,055 |
-| Arapahoe | 6.7%  | 24,801 |
-| TOTAL  | 100.0% | 369,711 |
+| Jefferson | 38,855  | 10.5% |
+| Denver | 306,055  | 82.8% |
+| Arapahoe | 24,801  | 6.7% |
+| TOTAL  | 369,711 | 100.0% |
 * Denver county has the largest numver of votes
 
 | CANDIDATE  | VOTES | PERCENTAGE |
