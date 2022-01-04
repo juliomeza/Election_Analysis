@@ -11,6 +11,8 @@ The purpose of this project is to audit the recent local congressional election,
 | Jefferson | 10.5%  | 38,855 |
 | Denver | 82.8%  | 306,055 |
 | Arapahoe | 6.7%  | 24,801 |
+| ------------- | ------------- | ------------- |
+| TOTAL  | 100.0% | 369,711 |
 * Denver county has the largest numver of votes
 
 | CANDIDATE  | VOTES | PERCENTAGE |
@@ -18,6 +20,7 @@ The purpose of this project is to audit the recent local congressional election,
 | Charles Casper Stockham  | 85,213  | 23.0% |
 | Diana DeGette  | 272,892  | 73.8% |
 | Raymon Anthony Doane  | 11,606  | 3.1% |
+| ------------- | ------------- | ------------- |
 | TOTAL  | 369,711  | 100.0% |
 
 
