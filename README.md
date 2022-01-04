@@ -20,13 +20,7 @@ The purpose of this project is to audit the recent local congressional election,
 | Diana DeGette  | 272,892  | 73.8% |
 | Raymon Anthony Doane  | 11,606  | 3.1% |
 | TOTAL  | 369,711  | 100.0% |
-
-
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-
+* With 272,892 votes, which represents 73.8% of the total number of votes, Diana DeGette won the election.
 
 ## Election-Audit Summary
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
