@@ -5,17 +5,12 @@ The purpose of this project is to audit the recent local congressional election,
 
 ## Election-Audit Results
 * There were 369,711 total votes in this congressional election.
-
 | COUNTY  | PERCENTAGE | VOTES |
 | ------------- | ------------- | ------------- |
 | Jefferson | 10.5%  | 38,855 |
 | Denver | 82.8%  | 306,055 |
 | Arapahoe | 6.7%  | 24,801 |
-
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
-
+* Denver county has the largest numver of votes
 
 | CANDIDATE  | VOTES | PERCENTAGE |
 | ------------- | ------------- | ------------- |
@@ -26,10 +21,6 @@ Arapahoe: 6.7% (24,801)
 
 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-* Which county had the largest number of votes?
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
