@@ -6,8 +6,17 @@ The purpose of this project is to audit the recent local congressional election,
 ## Election-Audit Results
 * There were 369,711 total votes in this congressional election.
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
+# Color Test Document
+
+## Second Heading
+
+This is a test to see how the colors work.
 
 
 | COUNTY  | VOTES | PERCENTAGE |
